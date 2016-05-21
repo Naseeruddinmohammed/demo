@@ -1,0 +1,9 @@
+Linux Notes:
+
+Type of distribution of Linux:
+1. Centos
+2. RHEL
+3. Ubuntu
+4. Suse
+5. OpenSuse
+6. Fedora
